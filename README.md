@@ -76,18 +76,6 @@ Restricted the shared printer so Guest devices cannot reach it, while Sales and 
 
 ---
 
-## Full Command Reference & Detailed Notes
-
-See [`revision-notes.md`](./revision-notes.md) for the complete command reference, every configuration step, and a full write-up of each issue encountered and how it was diagnosed.
-
----
-
-## Screenshots
-
-*(Add screenshots here: VLAN table, DHCP bindings, ACL match counters, ping test results)*
-
----
-
 ## About This Project
 
 Built as part of my transition into IT Support, alongside the Google IT Support Professional Certificate and CCNA coursework. Focused deliberately on breaking things and diagnosing real symptoms — wrong gateways, missing physical links, misapplied ACL direction — rather than just building a network that works on the first try, since that diagnostic process is closer to what real support work actually involves.
